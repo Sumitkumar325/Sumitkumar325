@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical" />
   <br/>
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical" />
   </a>
 </p>
