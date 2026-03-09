@@ -43,12 +43,5 @@
 
 ---
 
-### 📊 Performance & Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical" alt="Sumit's GitHub stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar325&layout=compact&theme=radical" alt="Top Languages" width="60%" />
-</p>
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical)
