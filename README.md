@@ -45,17 +45,18 @@
 
 ### 📊 Performance & Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar325&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=60&section=footer" />
-</p>
+<table align="center" border="0">
+<tr>
+<td align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical&hide_border=true" width="400px" />
+</td>
+<td align="center" valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical&hide_border=true" width="400px" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar325&layout=compact&theme=radical&hide_border=true" width="350px" />
+</td>
+</tr>
+</table>
