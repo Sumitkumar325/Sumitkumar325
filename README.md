@@ -6,7 +6,7 @@
 
 ---
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
@@ -18,8 +18,8 @@
         <li>🌱 <b>Currently learning Python & AI</b></li>
       </ul>
     </td>
-    <td width="40%" align="right" valign="top">
-      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="220px" />
+    <td width="40%" align="center">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Coding GIF" width="250px" />
     </td>
   </tr>
 </table>
@@ -54,10 +54,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical" />
-  </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical)](https://git.io/streak-stats)
