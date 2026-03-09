@@ -4,54 +4,58 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+AI+Enthusiast;📊+Data+Science+Learner;🚀+Future+AI+Engineer;💼+Freelancer">
 </p>
 
+<p align="center">
+  <a href="mailto:aapka-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 ---
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+      <img src="https://img.shields.io/badge/About%20Me-00F7FF?style=for-the-badge&logo=about.me&logoColor=black" />
+      <br/><br/>
       <ul>
-        <li>🎓 <b>BSCS Student</b></li>
-        <li>🤖 <b>Learning Artificial Intelligence</b></li>
-        <li>📚 <b>Interested in Machine Learning & Data Science</b></li>
-        <li>🚀 <b>Building Real World Projects</b></li>
-        <li>🌱 <b>Currently learning Python & AI</b></li>
+        <li>🎓 <b>BSCS Student</b> at University</li>
+        <li>🤖 <b>AI Specialist</b> in the making</li>
+        <li>📚 <b>Machine Learning & Data Science</b> Enthusiast</li>
+        <li>🚀 <b>Project Builder</b> | Turning ideas into code</li>
+        <li>🌱 <b>Learning Path:</b> Deep Learning & Advanced AI</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Coding GIF" width="250px" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Coding GIF" width="220px" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🤖 AI / Data Science
+### 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI / Data Science** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=cpp,java" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
+
+---
+
+### 📊 Performance & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical&hide_border=true" />
 </p>
 
-## 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java" />
-</p>
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitkumar325&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=60&section=footer" />
+</p>
