@@ -11,35 +11,55 @@
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+AI+Enthusiast;📊+Data+Science+Learner;🚀+Future+AI+Engineer;💼+Freelancer">
+</p>
+
+---
+
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
-      <img src="https://img.shields.io/badge/About%20Me-00F7FF?style=for-the-badge&logo=about.me&logoColor=black" />
-      <br/><br/>
+      <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>BSCS Student</b> at University</li>
-        <li>🤖 <b>AI Specialist</b> in the making</li>
-        <li>📚 <b>Machine Learning & Data Science</b> Enthusiast</li>
-        <li>🚀 <b>Project Builder</b> | Turning ideas into code</li>
-        <li>🌱 <b>Learning Path:</b> Deep Learning & Advanced AI</li>
+        <li>🎓 <b>BSCS Student</b></li>
+        <li>🤖 <b>Learning Artificial Intelligence</b></li>
+        <li>📚 <b>Interested in Machine Learning & Data Science</b></li>
+        <li>🚀 <b>Building Real World Projects</b></li>
+        <li>🌱 <b>Currently learning Python & AI</b></li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="Coding GIF" width="220px" style="border-radius: 10px;" />
+    <td width="40%" align="right" valign="top">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="220px" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack
+## 🤖 AI / Data Science
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI / Data Science** | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" /> |
-| **Programming** | <img src="https://skillicons.dev/icons?i=cpp,java" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
-| **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -48,7 +68,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical" />
   <br/>
-  <a>
+  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical" />
   </a>
 </p>
