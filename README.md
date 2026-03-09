@@ -6,13 +6,23 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 BSCS Student
-- 🤖 Learning Artificial Intelligence
-- 📚 Interested in Machine Learning & Data Science
-- 🚀 Building Real World Projects
-- 🌱 Currently learning Python & AI
+<table align="center" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🎓 <b>BSCS Student</b></li>
+        <li>🤖 <b>Learning Artificial Intelligence</b></li>
+        <li>📚 <b>Interested in Machine Learning & Data Science</b></li>
+        <li>🚀 <b>Building Real World Projects</b></li>
+        <li>🌱 <b>Currently learning Python & AI</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img src="https://camo.githubusercontent.com/660e8839e806a7a23f61b155be2e078a1cbd67f33c65b38994f8318cbd9e50f6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" width="220px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,4 +54,10 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkumar325&show_icons=true&theme=radical" />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkumar325&theme=radical" />
+  </a>
+</p>
