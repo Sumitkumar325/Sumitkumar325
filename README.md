@@ -11,12 +11,6 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&center=true&vCenter=true&width=700&lines=💻+AI+Enthusiast;📊+Data+Science+Learner;🚀+Future+AI+Engineer;💼+Freelancer">
-</p>
-
----
-
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
